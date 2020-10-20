@@ -4,7 +4,7 @@ I'm TheCactusMonkey aka Cactooz.
 
 This is my old account, that is no longer used. Check out my new account [Cactooz](https://github.com/Cactooz)!
 
-My old Discord bot for Minecraft Server status is still available [here](https://github.com/TheCactusMonkey/MinecraftServer-DiscordBot).
+My old Discord bot for Minecraft Server status is still available [here](https://github.com/Cactooz/MinecraftServer-DiscordBot).
 
 <!--
 **TheCactusMonkey/TheCactusMonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
